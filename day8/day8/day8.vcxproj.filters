@@ -27,9 +27,27 @@
     <ClCompile Include="类模板与友元.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类模板案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL初识.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector自定义数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="容器嵌套容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string的构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyArray.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
