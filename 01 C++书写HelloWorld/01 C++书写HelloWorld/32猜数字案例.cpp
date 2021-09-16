@@ -2,7 +2,7 @@
 using namespace std;
 #include<ctime>
 
-int main32()
+int main888()
 {
 	srand((unsigned int)time(NULL));
 	
